@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Paracetamol",
+    "uses": "Pain relief, fever reduction",
+    "sideEffects": "Nausea, rash, liver damage (if overdosed)",
+    "dosage": "500mg every 4-6 hours, max 4g per day"
+  },
+  {
+    "name": "Cetirizine",
+    "uses": "Allergy relief, sneezing, itching",
+    "sideEffects": "Drowsiness, dry mouth",
+    "dosage": "5–10mg per day"
+  }
+]
